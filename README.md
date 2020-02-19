@@ -28,7 +28,7 @@
 ## Build and Run
 ```shell
 make
-./myls
-./myps
-./mysh
+./bin/myls
+./bin/myps
+./bin/mysh
 ```
